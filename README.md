@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @cryptidcatcher
-- 👀 I’m interested in nature, podcasts, art, and games
-- 🌱 I’m currently learning python, javascript, html, css just general coding basics
-- 💞️ I’m looking to collaborate on pretty much anything new and interesting
+- 👀 I’m interested in nature, podcasts, art, and learning
+- 🌱 I’m currently learning python, javascript, html, css, C++, mySQL... just general coding basics
 - 📫 How to reach me: jasperprocaccini@gmail.com
 
 <!---
