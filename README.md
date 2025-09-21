@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @cryptidcatcher
 - 👀 I’m interested in knitting, nature, podcasts, art, and learning
 - 🌱 I’m currently learning python, javascript, html, css, C++, mySQL... just general coding basics
+- Linux is >>>>
 - 📫 How to reach me: jasmineprocaccini@gmail.com
 
 <!---
